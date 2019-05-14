@@ -1,0 +1,89 @@
+Partlist exported from C:/Users/Jack/Documents/eagle/Noduino/Quantum/V1.0/Noduino-Quantum.sch at 2016/11/1 20:32:44
+
+Part Value                Device               Package                            Description                                                             PROD_ID    VALUE
+A1                        ANTENNATPLACE        TRACE_ANTENNA_2.4GHZ_15.2MM_TPLACE Chip antenna                                                                            
+A2   U.FL                 U.FL                 U.FL                               SMD antenna connector- WRL-09144                                        CONN-09193 U.FL
+ 
+C1   100nF                0402-CAP             0402-CAP                                                                                                                   
+
+C2   100pF                0402-CAP             0402-CAP                                                                                                                   
+
+C3   15pF                 0402-CAP             0402-CAP                                                                                                                   
+C4   15pF                 0402-CAP             0402-CAP                                                                                                                   
+
+C5   6.8pF                0402-CAP             0402-CAP                                                                                                                   
+C6   2.4pF                0402-CAP             0402-CAP                                                                                                                   
+
+C7   100nF                0402-CAP             0402-CAP
+                                                                                                                   
+C8   100nF                0603-CAP             0603-CAP                                                                                                                   
+C9   100nF                0603-CAP             0603-CAP
+                                                                                                                   
+C10  10uF                 CAP-C1206            C1206                              Capacitor                                                                               
+C11  100uF                CAP_POL3528          EIA3528                            Capacitor Polarized
+                                                                     
+C12  10uF                 0603-CAP             0603-CAP                                                                                                                   
+C13  1uF                  0603-CAP             0603-CAP 
+                                                                                                                  
+C14  100nF                0402-CAP             0402-CAP                                                                                                                   
+
+C15  3nF                  0402-CAP             0402-CAP                                                                                                                   
+C16  10nF                 0402-CAP             0402-CAP                                                                                                                   
+
+C17  10uF                 0603-CAP             0603-CAP                                                                                                                   
+
+C18  100nF                0402-CAP             0402-CAP                                                                                                                   
+C19  100nF                0402-CAP             0402-CAP                                                                                                                   
+
+C20  270pF                0402-CAP             0402-CAP                                                                                                                   
+C21  270pF                0402-CAP             0402-CAP                                                                                                                   
+C22  12pF                 0402-CAP             0402-CAP                                                                                                                   
+C23  12pF                 0402-CAP             0402-CAP
+
+C24  10uF                 CAP-C1206            C1206                              Capacitor    
+                                                                           
+C122 100nF                0402-CAP             0402-CAP                                                                                                                   
+
+D1   BLUE                 LED-GREEN0603        LED-0603                           Various green LEDs                                                      DIO-00821  GREEN
+D2   BLUE                 LED-GREEN0603        LED-0603                           Various green LEDs                                                      DIO-00821  GREEN
+
+D4   S7                   DIODEHV              DO214                              Diode                                                                                   
+D5   S4                   DIODESOD             SOD-323                            Diode                                                                                   
+
+D6   GREEN                LED-GREEN0603        LED-0603                           Various green LEDs                                                      DIO-00821  GREEN
+
+IC1  1117-3.3             AMS1117SOT223        SOT223                             Voltage Regulator LM1117                                                                
+IC2  CP210X_USB_UART      CP210X_USB_UART      MLP28                              Single-Chip USB to UART Bridge
+                                                         
+J2   POWER_JACKPTH        POWER_JACKPTH        POWER_JACK_PTH                     Power Jack                                                                              
+JP1                       USB_MICROB_PLUG      MICROUSB-SMD-DIP                   USB Micro-B connectors 
+                                                                 
+JP2  M081X08              M081X08              1X08                               Header 8                                                                                
+JP3  M081X08              M081X08              1X08                               Header 8                                                                                
+JP4  M06SIP               M06SIP               1X06                               Header 6                                                                                
+JP5  M06SIP               M06SIP               1X06                               Header 6                                                                                
+JP6  M02X3                M02X3                2X3                                                                                                                        
+JP7                       M02PTH               1X02                               Header 2
+                                                                                
+L2   1.6nH                INDUCTOR0402         0402-IND
+                                                                                                                   
+Q1   SI2302               -MOSFET-N-SMD        SOT23-3                                                                                                                    
+Q2   SI2302               -MOSFET-N-SMD        SOT23-3
+                                                                                                                   
+R1   20K                  0402-RESISTOR        0402-RES                                                                                                                   
+R2   0R                   0402-RESISTOR        0402-RES                                                                                                                   
+R3   DNP
+                                                                                                                  
+R4   1K                   0603-RESISTOR        0603-RES                                                                                                                   
+R7   1K                   0603-RESISTOR        0603-RES                                                                                                                   
+R8   1K                   0603-RESISTOR        0603-RES                                                                                                                   
+R22  10K                  0603-RESISTOR        0603-RES
+                                                                                                                  
+R23  10K                  0402-RESISTOR        0402-RES
+                                                                                                                   
+S1   SWITCH-SMD           SWITCH-SMD           TACTILE-SWITCH-1101NE                                                                                                      
+                                                                                                    
+U1   ESP32                ESP32                QFN48-0.4MM                                                                                                                
+U2   SPI_FLASH-X25XXSMD1  SPI_FLASH-X25XXSMD1  SO08-EIAJ                          8pin SPI Flash series x25xx. Works with devices like W25X32 and BR25L32                 
+Y1   40MHz                CRYSTAL-GROUNDED2520 2520-CRY                                                                                                                   
+Y2   32KHz                CRYSTALMS3V          CRYSTAL-32KHZ-MS3V                 Crystals                                                                                
